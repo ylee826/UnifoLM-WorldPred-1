@@ -1,10 +1,10 @@
 window.WORLD_PRED_DATA = {
   "source": "videos",
   "summary": {
-    "episodes": 182,
-    "tasks": 82,
-    "previewPoolItems": 182,
-    "previewItems": 12,
+    "episodes": 80,
+    "tasks": 37,
+    "previewPoolItems": 0,
+    "previewItems": 0,
     "featuredItems": 24
   },
   "featured": [
