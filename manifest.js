@@ -1901,25 +1901,6 @@ window.WORLD_PRED_DATA = {
           }
         },
         {
-          "id": "g1_93_epspeed5x__table30ext__zip_up__20260612_8343__episode_0002_start0_model_ema_bf16.pt_cond2_generated_frames93_views-main_noneg_seed42_fixed_20260623_184446",
-          "layout": "table30ext",
-          "category": "tabletop_external",
-          "categoryLabel": "External: Table-top Manipulation",
-          "task": "zip_up",
-          "title": "Zip Up",
-          "episode": "20260612_8343__episode_0002",
-          "base": "g1_93_epspeed5x__table30ext__zip_up__20260612_8343__episode_0002_start0_model_ema_bf16.pt_cond2_generated_frames93_views-main_noneg_seed42_fixed_20260623_184446",
-          "viewMode": "main",
-          "trimFrontHalf": false,
-          "trimStartSeconds": null,
-          "views": {
-            "main": {
-              "gt": "videos/g1_93_epspeed5x__table30ext__zip_up__20260612_8343__episode_0002_start0_model_ema_bf16.pt_cond2_generated_frames93_views-main_noneg_seed42_fixed_20260623_184446__main__gt.mp4",
-              "gen": "videos/g1_93_epspeed5x__table30ext__zip_up__20260612_8343__episode_0002_start0_model_ema_bf16.pt_cond2_generated_frames93_views-main_noneg_seed42_fixed_20260623_184446__main__gen.mp4"
-            }
-          }
-        },
-        {
           "id": "g1_93_epspeed5x__table30ext__pack_bag__20260612_8343__episode_0010_start0_model_ema_bf16.pt_cond2_generated_frames93_views-main_noneg_seed42_fixed_20260623_183231",
           "layout": "table30ext",
           "category": "tabletop_external",
@@ -2106,25 +2087,6 @@ window.WORLD_PRED_DATA = {
             "main": {
               "gt": "videos/g1_93_epspeed5x__table30ext__remove_pinned_note__20260612_8520__episode_0003_start0_model_ema_bf16.pt_cond2_generated_frames93_views-main_noneg_seed42_fixed_20260623_183942__main__gt.mp4",
               "gen": "videos/g1_93_epspeed5x__table30ext__remove_pinned_note__20260612_8520__episode_0003_start0_model_ema_bf16.pt_cond2_generated_frames93_views-main_noneg_seed42_fixed_20260623_183942__main__gen.mp4"
-            }
-          }
-        },
-        {
-          "id": "g1_93_epspeed5x__table30ext__zip_up__20260612_8520__episode_0005_start0_model_ema_bf16.pt_cond2_generated_frames93_views-main_noneg_seed42_fixed_20260623_184729",
-          "layout": "table30ext",
-          "category": "tabletop_external",
-          "categoryLabel": "External: Table-top Manipulation",
-          "task": "zip_up",
-          "title": "Zip Up",
-          "episode": "20260612_8520__episode_0005",
-          "base": "g1_93_epspeed5x__table30ext__zip_up__20260612_8520__episode_0005_start0_model_ema_bf16.pt_cond2_generated_frames93_views-main_noneg_seed42_fixed_20260623_184729",
-          "viewMode": "main",
-          "trimFrontHalf": false,
-          "trimStartSeconds": null,
-          "views": {
-            "main": {
-              "gt": "videos/g1_93_epspeed5x__table30ext__zip_up__20260612_8520__episode_0005_start0_model_ema_bf16.pt_cond2_generated_frames93_views-main_noneg_seed42_fixed_20260623_184729__main__gt.mp4",
-              "gen": "videos/g1_93_epspeed5x__table30ext__zip_up__20260612_8520__episode_0005_start0_model_ema_bf16.pt_cond2_generated_frames93_views-main_noneg_seed42_fixed_20260623_184729__main__gen.mp4"
             }
           }
         },
